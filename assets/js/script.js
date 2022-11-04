@@ -1,3 +1,5 @@
+console.log("Site web développé par thealzhe : https://github.com/thealzhe/BurgerKing-LBG");
+console.log("Ce site ne constitue en aucun cas de l'usurpation envers la marque Burger King peu importe sa filiale.")
 'use strict';
 
 
@@ -90,5 +92,3 @@ window.addEventListener("scroll", function () {
   }
 
 });
-
-console.log(Site web développé par thealzhe : github.com/thealzhe/BurgerKing-LBG)
