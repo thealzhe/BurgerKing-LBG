@@ -6,7 +6,7 @@
 
 
 ### 📹 Previews
-- https://burgerking-lbg.ml/
+- https://burger-king.gq/
 
 
 ### ©️ thealzhe
